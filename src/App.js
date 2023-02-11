@@ -41,7 +41,7 @@ const DetectBound = async () => {
     } catch (e) {
       // console.log(e);
     }
-  }, 1)
+  }, 10)
 }
 
 const videoConstraints = {
